@@ -8,3 +8,4 @@ blah blah
 hello
 I just drank a large coffee from Tim Hortons
 I had an everything bagel for lunch and it was not made the way I wanted it smh
+I need to throw trash cause its cluttering my work space. I like my area to be neat and clean.
