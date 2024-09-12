@@ -17,6 +17,6 @@
 
 ## Random Food Images
 
-![](food-images/jollof-rice.jpg)
-![](food-images/chocolate-chip-cookie.jpg)
-![](food-images/butter-chicken-recipe.jpg)
+![jollof-rice](food-images/jollof-rice.jpg)
+![chocolate-chip-cookie](food-images/chocolate-chip-cookie.jpg)
+![butter-chicken](food-images/butter-chicken-recipe.jpg)
